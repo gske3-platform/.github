@@ -1,6 +1,8 @@
-# GSKE³ Platform
+# **G**SK e³ — Platform
 
-**Internal platform for KGSK / Grün.Stadt.Klima e³** — five federated tools sharing one identity, one project record, one event bus.
+**Internal platform for [Grün.Stadt.Klima e³ GmbH (KGSK)](https://kgsk.de)** — five federated tools sharing one identity, one project record, one event bus.
+
+> *Grün · Stadt · Klima · Energie.*
 
 > 🇩🇪 Regelkonforme Solar-Gründach-Planung von der Adresse bis zur Übergabe.
 > Sovereign Hetzner hosting · German regulation citations · DGUV / DIN / FLL aware.
@@ -64,5 +66,8 @@ The **knowledge sub-tool inside it** is *KGSK Brain*. Don't merge them.
 
 ## 🤝 Contact
 
-Maintainer: **Minka "Amin" Aduse-Poku** — [ma@kgsk.de](mailto:ma@kgsk.de)
-Product owner: Peter Küsters · KGSK GmbH
+**Grün.Stadt.Klima e³ GmbH** · [kgsk.de](https://kgsk.de)
+Maintainer: Minka "Amin" Aduse-Poku — [ma@kgsk.de](mailto:ma@kgsk.de)
+Product owner: Peter Küsters
+
+> *Grün · Stadt · Klima · Energie.*
