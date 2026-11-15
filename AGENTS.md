@@ -59,8 +59,11 @@ there is no preview and no staging. Read the rendered page afterwards to confirm
 ## 4. Open items
 
 - **Status column needs verification and a refresh** (golden rules 2 and 3).
-- **No D: mirror configured** for this repository. It is small, but it is the public face
-  of the company.
+- **Backup:** the D: mirror `D:/backups/gske3-platform-profile.git` is kept current by a
+  `post-commit` hook (ledger under `C:/Users/amink/.claude/backup-state/`). This repo has
+  **no named `mirror` remote**, so a commit made while the drive is unplugged is recorded
+  as `skip-drive-absent` and nothing catches it up automatically — run
+  `D:/backups/check-mirror-staleness.ps1` after reconnecting.
 
 ## 5. Continuity statement
 
